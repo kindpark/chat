@@ -1,5 +1,4 @@
 package com.creative.chat.repository;
-
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import com.creative.chat.model.ChatMessage;

@@ -16,5 +16,4 @@ public class UserToken {
     private String userId;
     private String token;
 
-    // getter, setter 생략 가능 (Lombok @Data 사용 가능)
 }

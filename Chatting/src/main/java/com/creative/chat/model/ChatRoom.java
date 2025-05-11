@@ -20,6 +20,4 @@ public class ChatRoom {
     private String user1Id;
     @Column(name="user2_id", nullable=false)
     private String user2Id;
-
-
 }
