@@ -16,7 +16,7 @@ build/
 bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
-
+chat1.json
 ### IntelliJ IDEA ###
 .idea
 *.iws
